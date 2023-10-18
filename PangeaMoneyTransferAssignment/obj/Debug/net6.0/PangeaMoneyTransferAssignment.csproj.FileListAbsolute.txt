@@ -1,0 +1,14 @@
+C:\Users\caitl\source\repos\PangeaMoneyTransferAssignment\PangeaMoneyTransferAssignment\bin\Debug\net6.0\PangeaMoneyTransferAssignment.exe
+C:\Users\caitl\source\repos\PangeaMoneyTransferAssignment\PangeaMoneyTransferAssignment\bin\Debug\net6.0\PangeaMoneyTransferAssignment.deps.json
+C:\Users\caitl\source\repos\PangeaMoneyTransferAssignment\PangeaMoneyTransferAssignment\bin\Debug\net6.0\PangeaMoneyTransferAssignment.runtimeconfig.json
+C:\Users\caitl\source\repos\PangeaMoneyTransferAssignment\PangeaMoneyTransferAssignment\bin\Debug\net6.0\PangeaMoneyTransferAssignment.dll
+C:\Users\caitl\source\repos\PangeaMoneyTransferAssignment\PangeaMoneyTransferAssignment\bin\Debug\net6.0\PangeaMoneyTransferAssignment.pdb
+C:\Users\caitl\source\repos\PangeaMoneyTransferAssignment\PangeaMoneyTransferAssignment\obj\Debug\net6.0\PangeaMoneyTransferAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\source\repos\PangeaMoneyTransferAssignment\PangeaMoneyTransferAssignment\obj\Debug\net6.0\PangeaMoneyTransferAssignment.AssemblyInfoInputs.cache
+C:\Users\caitl\source\repos\PangeaMoneyTransferAssignment\PangeaMoneyTransferAssignment\obj\Debug\net6.0\PangeaMoneyTransferAssignment.AssemblyInfo.cs
+C:\Users\caitl\source\repos\PangeaMoneyTransferAssignment\PangeaMoneyTransferAssignment\obj\Debug\net6.0\PangeaMoneyTransferAssignment.csproj.CoreCompileInputs.cache
+C:\Users\caitl\source\repos\PangeaMoneyTransferAssignment\PangeaMoneyTransferAssignment\obj\Debug\net6.0\PangeaMoneyTransferAssignment.dll
+C:\Users\caitl\source\repos\PangeaMoneyTransferAssignment\PangeaMoneyTransferAssignment\obj\Debug\net6.0\refint\PangeaMoneyTransferAssignment.dll
+C:\Users\caitl\source\repos\PangeaMoneyTransferAssignment\PangeaMoneyTransferAssignment\obj\Debug\net6.0\PangeaMoneyTransferAssignment.pdb
+C:\Users\caitl\source\repos\PangeaMoneyTransferAssignment\PangeaMoneyTransferAssignment\obj\Debug\net6.0\PangeaMoneyTransferAssignment.genruntimeconfig.cache
+C:\Users\caitl\source\repos\PangeaMoneyTransferAssignment\PangeaMoneyTransferAssignment\obj\Debug\net6.0\ref\PangeaMoneyTransferAssignment.dll
